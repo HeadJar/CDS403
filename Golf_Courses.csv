@@ -1,0 +1,58 @@
+OBJECTID,CATEGORY,NAME,Google Rating,Grint Rating,ADDRESS,CITY,ZIPCODE,PHONE,URL,DATA,POINT_X,POINT_Y,SHAPE,LATITUDE,LONGITUDE
+1,GOLF COURSE,Argyle Country Club,4.5,,14600 Argyle Club Rd,Silver Spring,20906,301-598-6949,http://www.marylandgolf.com/argyle.html,Private,1298469.125,520607.4689,"(39.09616137800003, -77.04885270099999)",39.09615351,-77.04885042
+2,GOLF COURSE,Bethesda Country Club,4.5,,7601 Bradley Blv,Bethesda,20817,301-365-1703,http://www.marylandgolf.com/bethesda.html,Private,1268916.25,490431.0626,"(39.01321741700008, -77.15280386699999)",39.01320957,-77.15280156
+3,GOLF COURSE,Bretton Woods Golf Course,4.5,,15700 River Rd,Germantown,20874,301-948-5405,http://www.marylandgolf.com/brettonwoods.html,Private,1218150.625,513319.25,"(39.07569078600005, -77.33175941099995)",39.07568293,-77.33175704
+4,GOLF COURSE,Burning Tree Country Club,5,,8600 Burdette Rd,Bethesda,20817,301-365-2588,http://www.marylandgolf.com/burningtree.html,Private,1269054.375,484360.9687,"(38.99655143200005, -77.15228211599998)",38.99654359,-77.15227981
+5,GOLF COURSE,Chevy Chase Country Club,5,,6100 Connecticut Ave,Bethesda,20815,301-652-4100,http://www.marylandgolf.com/chevychase.html,Private,1290137.625,476784.2187,"(38.97582094200004, -77.07807658299998)",38.9758131,-77.0780743
+6,GOLF COURSE,Columbia Country Club,5,,7900 Connecticut Ave,Chevy Chase,20815,301-951-5000,http://www.marylandgolf.com/columbia.html,Private,1289927,481632.125,"(38.98913138700004, -77.07883219099995)",38.98912354,-77.07882991
+7,GOLF COURSE,Congressional Country Club,5,,8500 River Rd,Bethesda,20817,301-469-2032,http://www.marylandgolf.com/congressional.html,Private,1262141.625,484251.8751,"(38.99621770300007, -77.17660427699997)",38.99620986,-77.17660196
+8,GOLF COURSE,Falls Road Golf Course,4,,10800 Falls Rd,Potomac,20854,301-299-5156,https://www.mcggolf.com/,Public,1255737.875,497231.7187,"(39.031820088000075, -77.19923579299996)",39.03181224,-77.19923347
+9,GOLF COURSE,Gunpowder Golf Course,3,,14300 Old Gunpowder Rd,Laurel,20866,301-725-4532,http://www.marylandgolf.com/gunpowder.html,Private,1334663.125,517399.8124,"(39.087338068000065, -76.92133323999997)",39.0873302,-76.921331
+10,GOLF COURSE,Kenwood Country Club,4,,5601 River Rd,Bethesda,20816,301-320-3605,http://www.marylandgolf.com/kenwoodgolf.html,Private,1280661.125,475008.4375,"(38.970918151000035, -77.11140290099996)",38.97091031,-77.11140061
+11,GOLF COURSE,Lakewood Country Club,4.5,,13901 Glen Mill Rd,Rockville,20850,301-762-5430,http://www.marylandgolf.com/lakewood.html,Private,1257099.875,516250.1251,"(39.08404621500006, -77.19458385599995)",39.08403835,-77.19458153
+12,GOLF COURSE,Laytonsville Golf Course,4,,7130 Dorsey Rd,Laytonsville,20882,301-948-5288,https://www.mcggolf.com/,Public,1271439.5,557328.5001,"(39.19690433200003, -77.14429573799998)",39.19689645,-77.14429342
+13,GOLF COURSE,Manor Country Club,3.5,,14901 Carrolton Rd,Rockville,20853,301-929-1700,http://www.marylandgolf.com/manorcc.html,Private,1288001.625,522845.3438,"(39.10228458600005, -77.08574222699997)",39.10227672,-77.08573993
+14,GOLF COURSE,Montgomery Country Club,4,,6550 Laytonsville Rd,Laytonsville,20882,301-948-4653,http://www.marylandgolf.com/montgomery.html,Private,1275191.25,558853.6249,"(39.20094490500003, -77.13089896899999)",39.20093702,-77.13089666
+15,GOLF COURSE,Needwood Golf Course,4.5,,6724 Needwood Rd,Derwood,20855,301-948-1075,https://www.mcggolf.com/,Public,1273340,528906.4375,"(39.11887689500003, -77.13743886699996)",39.11886903,-77.13743656
+16,GOLF COURSE,Norbeck Golf Course,4,,17200 Cashell Rd,Rockville,20853,301-774-7706,http://www.marylandgolf.com/norbeck.html,Private,1285140.875,535597.3751,"(39.13728905600004, -77.09587010499996)",39.13728118,-77.09586781
+17,GOLF COURSE,Poolesville Public Golf Course & Potomac Valley,3,,16601 W Willard Rd,Poolesville,20837,301-428-8143,https://www.mcggolf.com/,Public,1192736.375,530657.0625,"(39.12300585100007, -77.42156159699994)",39.12299799,-77.4215592
+18,GOLF COURSE,Leisure World Golf Course,5,,3701 Rossmoor Blv,Silver Spring,20906,301-598-1570,http://www.marylandgolf.com/leisureworld.html,Private,1293720.25,523248.0001,"(39.10340314800004, -77.06559199599997)",39.10339528,-77.06558971
+19,GOLF COURSE,Sligo Creek Golf Course,4,,9701 Sligo Creek Pkw,Silver Spring,20901,301-585-6006,https://www.mcggolf.com/,Public,1304069.75,490441.8438,"(39.01334317800007, -77.02908508799999)",39.01333533,-77.02908282
+20,GOLF COURSE,TPC At Avenel Golf Course,5,,10000 Oaklyn Dr,Potomac,20854,301-469-3700,http://www.marylandgolf.com/aveneltpc.html,Private,1256741.5,482756.2499,"(38.99208094200003, -77.19559355099994)",38.9920731,-77.19559123
+21,GOLF COURSE,Woodmont Country Club,5,,1201 Rockville Pik,Rockville,20852,301-762-6801,http://www.marylandgolf.com/woodmont.html,Private,1272496.875,509218.1876,"(39.06481651400003, -77.14030390099998)",39.06480866,-77.14030159
+22,GOLF COURSE,Rattlewood Golf Course,4,,13501 Penn Shop Rd,Mt. Airy,21771,301-607-9000,https://www.mcggolf.com/,Public,1257900.5,609584.9376,"(39.340306353000074, -77.19245655599997)",39.34029844,-77.19245421
+23,GOLF COURSE,Little Bennett Golf Course,4.5,,25900 Prescott Rd,Clarksburg,20871,301-253-1515,https://www.mcggolf.com/,Public,1229257.375,589672.625,"(39.285428387000024, -77.29350105799995)",39.28542049,-77.29349869
+24,GOLF COURSE,Hampshire Greens Golf Course,4,,616 Firestone Dr,Silver Spring,20905,301-476-7999,https://www.mcggolf.com/,Public,1311852.125,532025.6874,"(39.12752176400005, -77.00169857799995)",39.12751389,-77.00169631
+25,GOLF COURSE,Trotters Glen Golf Course,2,,16501 Batchellors Forest Rd,Olney,20832,301-570-4951,http://www.marylandgolf.com/trottersglen.html,Private,1296412.375,531418.9999,"(39.12584260400007, -77.05612305899996)",39.12583473,-77.05612077
+26,GOLF COURSE,Northwest Park Golf Course,4,,15711 Layhill Rd,Wheaton,20855,301-598-6100,https://www.mcggolf.com/,Public,1304224,526841.7501,"(39.11328514200005, -77.02858233399996)",39.11327727,-77.02858006
+27,GOLF COURSE,Blue Mash Golf Course,5,,5821 Olney Laytonsville Rd,Olney,20882,301-670-1966,http://www.bluemash.com,Public,1279177.625,554350.4999,"(39.18875842500006, -77.11697841799997)",39.18875054,-77.11697611
+28,GOLF COURSE,Four Streams Golf Course,5,,19501 Darnestown Rd,Beallsville,20839,301-349-2900,http://www.marylandgolf.com/golfcourse/Four_Streams_Golf_Club.html,Private,1198805.538,550870.7859,"(39.178579194000065, -77.40048166499997)",39.17857132,-77.40047927
+29,GOLF COURSE,Belle Haven Country Club,5,,,,,,,Private,,,,,
+30,GOLF COURSE,Burke Lake Golf Center,4,,,,,,,Public,,,,,
+31,GOLF COURSE,Chantilly National Golf & Country Club,4.5,,,,,,,Private,,,,,
+32,GOLF COURSE,Trump National,4.5,,,,,,,Private,,,,,
+33,GOLF COURSE,Fort Belvoir Golf Facility ,4,,,,,,,Public,,,,,
+34,GOLF COURSE,Greendale Golf Course,3,,,,,,,Public,,,,,
+35,GOLF COURSE,Herndon Centennial Golf Course,3,,,,,,,Public,,,,,
+36,GOLF COURSE,Hidden Creek Country Club,4,,,,,,,Private,,,,,
+37,GOLF COURSE,International Country Club,5,,,,,,,Private,,,,,
+38,GOLF COURSE,Jefferson District Golf Course,4.1,,,,,,,Public,,,,,
+39,GOLF COURSE,Laurel Hill Golf Club,4.5,,,,,,,Public,,,,,
+40,GOLF COURSE,Mount Vernon Country Club,4.5,,,,,,,Private,,,,,
+41,GOLF COURSE,Oak Marr Golf Complex,3,,,,,,,Public,,,,,
+42,GOLF COURSE,Penderbrook Golf Club,3.5,,,,,,,Public,,,,,
+43,GOLF COURSE,Pinecrest Golf Course,4,,,,,,,Public,,,,,
+44,GOLF COURSE,Pleasant Valley Golf Club,4,,,,,,,Public,,,,,
+45,GOLF COURSE,Pohick Bay Golf Course,4,,,,,,,Public,,,,,
+46,GOLF COURSE,Reston National Golf Course,3.5,,,,,,,Public,,,,,
+47,GOLF COURSE,River Bend Golf & Country Club,5,,,,,,,Private,,,,,
+48,GOLF COURSE,Springfield Golf & Country Club,5,,,,,,,Private,,,,,
+49,GOLF COURSE,Twin Lakes - Lakes Course,4,,,,,,,Public,,,,,
+50,GOLF COURSE,Twin Lakes - Oaks Course,4,,,,,,,Public,,,,,
+51,GOLF COURSE,Virginia Golf Center & Academy,3,,,,,,,Public,,,,,
+52,GOLF COURSE,Westfields Golf Club,4,,,,,,,Public,,,,,
+53,GOLF COURSE,Westwood Country Club,5,,,,,,,Private,,,,,
+54,GOLF COURSE,East Potomac - Blue,3,,,,,,,,,,,,
+55,GOLF COURSE,East Potomac - Red,3,,,,,,,,,,,,
+56,GOLF COURSE,East Potomac - White,3,,,,,,,,,,,,
+57,GOLF COURSE,Old Hickory,3.5,,,,,,,,,,,,
